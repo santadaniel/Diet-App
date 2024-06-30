@@ -1,0 +1,6 @@
+[submodule "Diet-App-Backend"]
+	path = Diet-App-Backend
+	url = https://github.com/santadaniel/Diet-App-Backend
+[submodule "Diet-App-Frontend"]
+	path = Diet-App-Frontend
+	url = https://github.com/santadaniel/Diet-App-Frontend
